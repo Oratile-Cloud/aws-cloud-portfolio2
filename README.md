@@ -1,6 +1,6 @@
-# ☁️ Oratile Boikanyo — AWS Cloud Portfolio
+# Oratile Boikanyo — AWS Cloud Portfolio
 
-## 👨‍💻 About Me
+## About Me
 
 Aspiring Cloud Engineer based in South Africa, currently completing a Cloud Engineering program while gaining hands-on experience with AWS cloud services.
 
@@ -8,7 +8,7 @@ I am building real-world cloud projects to prepare for a Cloud Engineering role.
 
 ---
 
-## ☁️ Cloud Skills (Learning & Practicing)
+## Cloud Skills (Learning & Practicing)
 
 * AWS S3
 * AWS EC2
@@ -20,9 +20,9 @@ I am building real-world cloud projects to prepare for a Cloud Engineering role.
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 📌 Project 1 — Training Management System (Program Project)
+### Project 1 — Training Management System (Program Project)
 
 Description:
 Building a cloud-based training management system using AWS and Moodle.
@@ -34,11 +34,11 @@ AWS Services:
 * IAM
 
 Status:
-🟡 In Progress
+ In Progress
 
 ---
 
-### 📌 Project 2 — Volunteer Cloud System
+### Project 2 — Volunteer Cloud System
 
 Description:
 Cloud-based storage and management system for volunteer program resources.
@@ -49,33 +49,33 @@ AWS Services:
 * IAM
 
 Status:
-🟡 In Progress
+ In Progress
 
 ---
 
-### 📌 Project 3 — Personal AWS Projects
+### Project 3 — Personal AWS Projects
 
 Description:
 Hands-on AWS cloud projects to strengthen cloud engineering skills.
 
 Status:
-🟡 Starting Soon
+ Starting Soon
 
 ---
 
-## 🎯 Career Goal
+## Career Goal
 
 To become a Junior Cloud Engineer and work with scalable cloud infrastructure.
 
 ---
 
-## 📍 Location
+## Location
 
 South Africa
 
 ---
 
-## 🔗 Contact
+## Contact
 
 GitHub: https://github.com/oratile-cloud
 LinkedIn: (Coming Soon)
